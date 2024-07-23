@@ -1,4 +1,4 @@
-<h1>SMS Spam detections</h1>
+<h1 align="center">SMS Spam detections</h1>
 
 SMS Spam Detection (NLP)
 Random Forest prediction
